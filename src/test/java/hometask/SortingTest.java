@@ -2,8 +2,6 @@ package hometask;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import hometask.HomePage;
-import hometask.LoginPage;
 import java.util.Collections;
 import java.util.List;
 

@@ -4,7 +4,6 @@ import java.time.Duration;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import hometask.*;
 
 public class CheckoutOverviewTest extends BaseTest {
 

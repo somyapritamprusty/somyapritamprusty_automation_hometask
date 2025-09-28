@@ -1,12 +1,7 @@
 package hometask;
 
-import java.time.Duration;
-
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import hometask.CartPage;
-import hometask.HomePage;
-import hometask.LoginPage;
 
 public class CartRemovalTest extends BaseTest {
 
